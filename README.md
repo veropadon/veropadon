@@ -1,13 +1,12 @@
 ### Hi 👋, I'm Veronica (she/her)
-Full Stack Developer 👩‍💻, former Google Quality Rater🔍 and Bilingual Navigator Concierge 🗣️
-🔭 I’m currently enhancing my skills in Front End Software Development at Promineo Tech and Bridgevalley Community & Technical College. I'm also exploring AI/Machine Learning with Codecademy. I've successfully developed and am now leading the front-end development of GlobeTales Exchange, demonstrating my full-stack capabilities.
 
-🌱 I’m currently learning advanced web solutions and improving my expertise in Java, constantly seeking to deliver innovative and impactful software developments.
+Full Stack Developer 👩‍💻, grounded in quality analysis and bilingual customer support. 🔭 I'm enhancing my Front End Software Development acumen at Promineo Tech and Bridgevalley Community & Technical College, while also delving into AI/Machine Learning at Codecademy. I'm further broadening my technical expertise by pursuing a Bachelor's degree in Computer Science at Western Governors University (WGU).
 
-👯 I’m looking to collaborate on various projects. Eager to apply my proactive approach in a fast-paced environment and to deliver superior results through innovative software solutions.
+🌱 With a passion for advanced web solutions and Java, I am dedicated to pushing technological boundaries and delivering impactful software innovations.
 
-💬 Ask me about my experience with data analysis and pattern recognition, my role in enhancing search algorithms, my favorite programming languages and frameworks, or even about my journey in improving healthcare navigation and satisfaction at Blue Cross Blue Shield.
+👯 I’m eager to collaborate on diverse projects, applying my proactive approach to dynamic work environments, all with the goal of crafting superior software solutions.
 
+💬 Talk to me about my analytical skills in data analysis, my effective strategies for search algorithm enhancement, my preferred tech stacks, or my commitment to elevating customer service experiences.
 📫 How to reach me: 3047192795 or veronicapadon@gmail.com
 
 ⚡ Fun fact: I am not only passionate about technology but also about making a difference. Whether it's improving search algorithms at Telus International or enhancing healthcare experiences at Blue Cross Blue Shield, I'm committed to making an impact.
