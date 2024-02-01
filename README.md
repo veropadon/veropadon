@@ -18,7 +18,7 @@ Connect with me:
 
 LinkedIn: https://www.linkedin.com/in/veronicapadon/
 
-GitHub: veropadon
+GitHub: [veropadon](https://github.com/veropadon)
 
 Languages and Tools:
 
