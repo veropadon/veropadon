@@ -6,10 +6,13 @@ Full Stack Developer 👩‍💻, grounded in Quality analysis and Bilingual Nav
 
 👯 I’m eager to collaborate on diverse projects, applying my proactive approach to dynamic work environments, all with the goal of crafting superior software solutions.
 
-💬 Talk to me about my analytical skills in data analysis, my effective strategies for search algorithm enhancement, my preferred tech stacks, or my commitment to elevating customer service experiences.
+💬 Feel free to ask me about my experience with data analysis and pattern recognition, my contributions to improving algorithmic accuracy, my preferred programming languages and frameworks, or even about my dedication to enhancing customer service experiences in past roles.
+
 📫 How to reach me: 3047192795 or veronicapadon@gmail.com
 
- Fun fact: My passion extends beyond technology; it's about effecting positive change. Whether it's through technical innovation or service excellence, I'm driven to make a meaningful impact.
+
+ ⚡ Fun fact: My passion extends beyond technology; it's about effecting positive change. Whether it's through technical innovation or service excellence, I'm driven to make a meaningful impact.
+ 
 
 🎮 In my free time, I love to immerse myself in the world of IoT. Working on projects involving Arduino IDE is a hobby that fuels my creativity and satisfies my curiosity for hands-on, interactive tech projects.
 
