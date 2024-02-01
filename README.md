@@ -8,7 +8,11 @@ Full Stack Developer 👩‍💻, grounded in Quality analysis and Bilingual Nav
 
 💬 Feel free to ask me about my experience with data analysis and pattern recognition, my contributions to improving algorithmic accuracy, my preferred programming languages and frameworks, or even about my dedication to enhancing customer service experiences in past roles.
 
-📫 How to reach me: 3047192795 or veronicapadon@gmail.com
+📫 How to reach me: 
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:veronicapadon@gmail.com)
+
+
 
 
  ⚡ Fun fact: My passion extends beyond technology; it's about effecting positive change. Whether it's through technical innovation or service excellence, I'm driven to make a meaningful impact.
