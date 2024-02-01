@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Veronica (she/her)
 
-Full Stack Developer 👩‍💻, grounded in quality analysis and bilingual customer support. 🔭 I'm enhancing my Front End Software Development acumen at Promineo Tech and Bridgevalley Community & Technical College, while also delving into AI/Machine Learning at Codecademy. I'm further broadening my technical expertise by pursuing a Bachelor's degree in Computer Science at Western Governors University (WGU).
+Full Stack Developer 👩‍💻, grounded in Quality analysis and Bilingual Navigator Concierge . 🔭 I'm enhancing my Front End Software Development acumen at Promineo Tech and Bridgevalley Community & Technical College, while also delving into AI/Machine Learning at Codecademy. I'm further broadening my technical expertise by pursuing a Bachelor's degree in Computer Science at Western Governors University (WGU).
 
 🌱 With a passion for advanced web solutions and Java, I am dedicated to pushing technological boundaries and delivering impactful software innovations.
 
@@ -9,9 +9,9 @@ Full Stack Developer 👩‍💻, grounded in quality analysis and bilingual cus
 💬 Talk to me about my analytical skills in data analysis, my effective strategies for search algorithm enhancement, my preferred tech stacks, or my commitment to elevating customer service experiences.
 📫 How to reach me: 3047192795 or veronicapadon@gmail.com
 
-⚡ Fun fact: I am not only passionate about technology but also about making a difference. Whether it's improving search algorithms at Telus International or enhancing healthcare experiences at Blue Cross Blue Shield, I'm committed to making an impact.
+⚡ Fun fact: I'm driven by a passion for making a positive impact, whether through tech innovation or service excellence.
 
-🎮 In my free time, I love to immerse myself in the world of IoT. Working on projects involving Arduino IDE is a hobby that fuels my creativity and satisfies my curiosity for hands-on, interactive technology.
+🎮 In my free time, I love to immerse myself in the world of IoT. Working on projects involving Arduino IDE is a hobby that fuels my creativity and satisfies my curiosity for hands-on, interactive tech projects.
 
 Connect with me:
 
