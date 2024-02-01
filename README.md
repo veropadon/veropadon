@@ -16,11 +16,14 @@ Full Stack Developer 👩‍💻, grounded in Quality analysis and Bilingual Nav
 
 🎮 In my free time, I love to immerse myself in the world of IoT. Working on projects involving Arduino IDE is a hobby that fuels my creativity and satisfies my curiosity for hands-on, interactive tech projects.
 
-Connect with me:
 
-LinkedIn: https://www.linkedin.com/in/veronicapadon/
+## Connect with me:
 
-GitHub: [veropadon](https://github.com/veropadon)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/veronicapadon/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([veropadon](https://github.com/veropadon)
+
+
 
 Languages and Tools:
 
