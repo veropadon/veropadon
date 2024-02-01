@@ -10,7 +10,7 @@ Full Stack Developer 👩‍💻, grounded in Quality analysis and Bilingual Nav
 
 📫 How to reach me: 
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:veronicapadon@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)]  (veronicapadon@gmail.com)
 
 
 
