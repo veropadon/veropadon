@@ -15,7 +15,9 @@ Full Stack Developer 👩‍💻, former Google Quality Rater🔍 and Bilingual 
 🎮 In my free time, I love to immerse myself in the world of IoT. Working on projects involving Arduino IDE is a hobby that fuels my creativity and satisfies my curiosity for hands-on, interactive technology.
 
 Connect with me:
-LinkedIn: veronicapadon
+
+LinkedIn: https://www.linkedin.com/in/veronicapadon/
+
 GitHub: veropadon
 
 Languages and Tools:
