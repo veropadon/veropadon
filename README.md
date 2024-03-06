@@ -58,6 +58,9 @@ Languages and Tools:
 
 
 ### Database/ORM
+![JPA](https://img.shields.io/badge/JPA-007396?style=flat&logo=java&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-007396?style=flat&logo=java&logoColor=white)
+
 
 
 
