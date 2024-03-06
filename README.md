@@ -66,6 +66,7 @@ Full Stack Developer 👩‍💻, grounded in Quality analysis and Bilingual Nav
 
 
 ### Database/ORM
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-007396?style=flat&logo=java&logoColor=white)
 ![JDBC](https://img.shields.io/badge/JDBC-007396?style=flat&logo=java&logoColor=white)
 
