@@ -55,6 +55,8 @@ Full Stack Developer 👩‍💻, grounded in Quality analysis and Bilingual Nav
 
 ### Testing
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white)
+
 
 
 ### API Testing/Documentation
