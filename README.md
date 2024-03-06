@@ -43,11 +43,15 @@ Languages and Tools:
 
 
 ### Back-End
-- **Languages & Frameworks:** NodeJS, ExpressJS, NestJS, Java, Spring Boot
-- **Database/ORM:** PostgreSQL, JPA, JDBC
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 
 ### Style and Design
-- **Frameworks:** CSS3, Tailwind CSS, Bootstrap, Chakra-UI
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+
 
 ### Testing
 - **Tools:** Jest
