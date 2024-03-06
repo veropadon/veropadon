@@ -54,11 +54,12 @@ Languages and Tools:
 
 
 ### Testing
-- **Tools:** Jest
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
+
 
 ### Database/ORM
-- **Databases:** PostgreSQL
-- **ORMs/ODMs:** JPA, JDBC
+
+
 
 ### Miscellaneous
 - **Version Control:** Git, GitHub
