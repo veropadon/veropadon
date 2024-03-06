@@ -84,6 +84,7 @@ Full Stack Developer 👩‍💻, grounded in Quality analysis and Bilingual Nav
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=JSON%20web%20tokens)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-79A9D1?style=flat&logo=dbeaver&logoColor=white)
 
 
