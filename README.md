@@ -62,11 +62,12 @@ Languages and Tools:
 
 
 ### Miscellaneous
-- **Version Control:** Git, GitHub
-- **IDE & Tools:** Visual Studio Code, NPM, JSON, JWT, DBeaver
-- **API Testing & Documentation:** Postman, Swagger, ARC (Advanced REST Client)
-- **Containers & CI/CD:** Docker
-- **Cloud Services:** Amazon AWS S3
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+
 
 
 
