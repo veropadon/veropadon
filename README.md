@@ -29,7 +29,7 @@ Full Stack Developer 👩‍💻, grounded in Quality analysis and Bilingual Nav
 
 
 
-Languages and Tools:
+
 
 ## Skills & Tools
 
